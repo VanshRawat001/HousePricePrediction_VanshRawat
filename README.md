@@ -72,12 +72,11 @@ The results indicate that Linear Regression performed slightly better on this da
 ```text
 House-Price-Prediction/
 │
-├── House_Price_Prediction.ipynb
+├── analysis.ipynb
 ├── Housing.csv
 ├── README.md
 ├── requirements.txt
 ├── Summary.docx
-└── Project_Report.pdf
 ```
 
 ## Future Improvements
