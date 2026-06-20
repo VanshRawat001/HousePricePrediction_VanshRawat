@@ -75,7 +75,6 @@ House-Price-Prediction/
 ├── analysis.ipynb
 ├── Housing.csv
 ├── README.md
-├── requirements.txt
 ├── Summary.docx
 ```
 
