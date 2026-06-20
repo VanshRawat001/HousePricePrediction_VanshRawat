@@ -70,12 +70,14 @@ The results indicate that Linear Regression performed slightly better on this da
 ## Repository Structure
 
 ```text
-House-Price-Prediction/
+HousePricePrediction_VanshRawat.zip/
 │
 ├── analysis.ipynb
 ├── Housing.csv
-├── README.md
+├── charts
 ├── Summary.docx
+
+README.md
 ```
 
 ## Future Improvements
